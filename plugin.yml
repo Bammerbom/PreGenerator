@@ -1,0 +1,9 @@
+name: PreGenerator
+version: 1.3.0
+description: Pregenerate your chunks!
+author: [Bammerbom]
+main: Bammerbom.PreGenerator.Main
+prefix: PG
+commands:
+  pg:
+  pregenerator:
